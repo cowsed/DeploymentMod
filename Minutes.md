@@ -6,3 +6,4 @@
 - Planning DND (Damian and Nat's Deployment)
 - Planning standalone powermod
 - Setup Github
+- Began CONOPs (ConOps, CONOPs)
