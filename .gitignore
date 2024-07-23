@@ -2,3 +2,4 @@
 .direnv/
 .direnv
 Experiments/intermediate_data 
+.envrc
