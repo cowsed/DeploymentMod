@@ -1,0 +1,4 @@
+.venv/
+.direnv/
+.direnv
+Experiments/intermediate_data 
