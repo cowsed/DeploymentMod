@@ -10,4 +10,4 @@
 
 ## 7/24/24:
 ![image](https://github.com/user-attachments/assets/831c8cc7-ae64-49a6-b53e-ae0c9aa0a87e)
-- ???
+- Established polynomial fit is like almost it for predicting apogee :( - Pretty close
