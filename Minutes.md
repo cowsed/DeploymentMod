@@ -17,4 +17,6 @@
 - We can sort of measure drag so we can add that to our model
 - Maybe fitting drag curve can yield apogee?
 - Matlab model shows that drag creates a fairly predictible error rate in under estimating altitude, more modeling needed
+- What defines a good model
+  - At halfway point, predicted apogee should be within 300ft of actual
 ![image](https://github.com/user-attachments/assets/f9959179-9d7e-42ed-b1b8-b5058d6f1e9f)
