@@ -16,3 +16,5 @@
 - STMCube Document (in github 🖤)
 - We can sort of measure drag so we can add that to our model
 - Maybe fitting drag curve can yield apogee?
+- Matlab model shows that drag creates a fairly predictible error rate in under estimating altitude, more modeling needed
+![image](https://github.com/user-attachments/assets/f9959179-9d7e-42ed-b1b8-b5058d6f1e9f)
