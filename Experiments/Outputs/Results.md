@@ -17,3 +17,7 @@ Using numpys polynomial fit with degree 2, the fit isnt perfect and it consisten
 Using a projectile motion prediction (theres no drag, there never was drag, whats drag?) which fails even more miserably as it doesnt update as it slows down faster than it ought to. 
 > ![Plot showing actual altitude compared to projectile prediction](ProjectileMotionIncorrect.png)
 
+
+# Overall Parabola Fit
+
+![alt text](image-1.png)
