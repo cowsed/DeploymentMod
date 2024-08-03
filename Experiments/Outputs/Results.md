@@ -21,3 +21,12 @@ Using a projectile motion prediction (theres no drag, there never was drag, what
 # Overall Parabola Fit
 
 ![alt text](image-1.png)
+
+
+
+- [ ] Shrinking window (at start use larger windo, at end use little)
+- [ ] Velocities
+
+- [ ] Is 2 seconds the optimal for all flight paths or is it just good for grim
+- [ ] measure noise of grim
+- [ ] Find 4.75 of calm new mexico data
