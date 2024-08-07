@@ -1,4 +1,8 @@
 # Meeting Summaries
+## 7/X/24
+- Hey, nat and i are talking about a secret module, wanna join
+
+
 ## 7/17/24:
 - High level wiring diagram
 - What chips we need
