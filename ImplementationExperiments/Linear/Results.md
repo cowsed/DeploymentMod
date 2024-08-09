@@ -6,6 +6,11 @@ $$ m = \frac{N \sum(xy) - \sum(x) \sum(y)}{N \sum(x^2) - (\sum(x))^2} $$
 
 $$b = \frac{\sum(y) - m\sum(x)}{N}$$
 
+where: 
+- $N$ = number of samples in the window
+- $x$ = time samples
+- $y$ = altitude samples
+
 For each sample:
 
 | Operation | Number |
