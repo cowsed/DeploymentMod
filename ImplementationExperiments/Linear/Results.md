@@ -11,7 +11,7 @@ where:
 - $x$ = time samples
 - $y$ = altitude samples
 
-For each sample:
+For each sample, calculating $m$ and $b$ takes the following operations:
 
 | Operation | Number |
 | --------- | ------ |
