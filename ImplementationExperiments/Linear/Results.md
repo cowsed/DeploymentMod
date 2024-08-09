@@ -3,6 +3,7 @@ Linear Curve Fitting
 Implementing this as shown in stepwise.cpp
 
 $$ m = \frac{N \sum(xy) - \sum(x) \sum(y)}{N \sum(x^2) - (\sum(x))^2} $$
+
 $$b = \frac{\sum(y) - m\sum(x)}{N}$$
 
 For each sample:
