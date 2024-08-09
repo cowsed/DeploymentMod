@@ -14,6 +14,7 @@ where:
 For each sample:
 
 | Operation | Number |
+| --------- | ------ |
 | Add       | 4      |
 | Subtract  | 7      |
 | Multiply  | 7      |
