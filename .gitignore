@@ -4,3 +4,6 @@
 Experiments/intermediate_data 
 FittingExperiments/intermediate_data
 .envrc
+ImplementationExperiments/Linear/stepwise
+ImplementationExperiments/Linear/stepwise_realdata
+ImplementationExperiments/Linear/data.h
