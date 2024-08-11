@@ -38,3 +38,16 @@
   - if your prediction is good enough and your predicted apogee near enough, you can make the call telling any peripherals that its almost apogee time with some degree of certainty
   - now you just gotta implement least squares effeciently :)
 ![image](https://github.com/user-attachments/assets/9ded0dc5-27c7-4f06-9115-05080ad8c2c4)
+
+# 8/1/24
+![image](https://github.com/user-attachments/assets/061e897d-bb5d-478d-a62e-e204d43ba890)
+- Richie: is busy
+- Altum meeting, working on power sheet
+  - Power SHEET UPDATES
+    - Arming switch
+    - Mosfetss <-- we may be wrong
+    - DEP Signal outs
+    - Power switching for dep
+    - Working on power switching for internal
+  - STM Landing pads?
+- 
