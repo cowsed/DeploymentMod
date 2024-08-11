@@ -1,6 +1,9 @@
 # DeploymentMod
 Its the mod that deploys the things
 
+## Guiding principles
+
+> You cant make all the biscuits at once without burning the house down
 
 ## Helpful Links
 - [CDR-adjacent-presentation](https://docs.google.com/presentation/d/1HQ1U4L-7yZEHxEFlUUV_Q-YNM07OsOAh5t_GZSV1-gw/edit?usp=sharing)
