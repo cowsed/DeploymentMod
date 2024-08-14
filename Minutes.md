@@ -53,5 +53,9 @@
 
 # 8/14/24
 ![image](https://github.com/user-attachments/assets/5425b93b-92a4-4cd0-bd70-015a7fc457a9)
+nat's cat's but
 
+- Richie: C++ implmentation of linear and quardatic curve fitting then the integer overflow attacked
+- Nat: Working on ST link
+- Damian: Dep sheet worked on 
 
