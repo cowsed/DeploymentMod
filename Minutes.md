@@ -39,7 +39,7 @@
   - now you just gotta implement least squares effeciently :)
 ![image](https://github.com/user-attachments/assets/9ded0dc5-27c7-4f06-9115-05080ad8c2c4)
 
-# 8/1/24
+# 8/10/24
 ![image](https://github.com/user-attachments/assets/061e897d-bb5d-478d-a62e-e204d43ba890)
 - Richie: is busy
 - Altum meeting, working on power sheet
@@ -50,4 +50,13 @@
     - Power switching for dep
     - Working on power switching for internal
   - STM Landing pads?
-- 
+
+# 8/14/24
+![image](https://github.com/user-attachments/assets/5425b93b-92a4-4cd0-bd70-015a7fc457a9)
+nat's cat's but
+![image](https://github.com/user-attachments/assets/b2ebd890-aeb4-4d36-a445-cdecee6312d2)
+
+- Richie: C++ implmentation of linear and quardatic curve fitting then the integer overflow attacked
+- Nat: Working on ST link
+- Damian: Dep sheet worked on 
+
