@@ -1,0 +1,3 @@
+[submodule "FSW"]
+	path = FSW
+	url = https://github.com/cowsed/FSW
