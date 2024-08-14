@@ -52,6 +52,6 @@
   - STM Landing pads?
 
 # 8/14/24
-![image](https://github.com/user-attachments/assets/4c4568d6-b411-4466-ab65-ccd732b3f5fd)
+![image](https://github.com/user-attachments/assets/5425b93b-92a4-4cd0-bd70-015a7fc457a9)
 
 
