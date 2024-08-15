@@ -1,0 +1,121 @@
+{
+    "elliptical_fins": {},
+    "environment": {
+        "base_pressure": null,
+        "base_temperature": null,
+        "date": null,
+        "elevation": 1522.476,
+        "geodetic_method": "spherical",
+        "latitude": 33.0,
+        "longitude": -107.0,
+        "wind_average": 2.0,
+        "wind_turbulence": 0.1
+    },
+    "flight": {
+        "heading": 90.0,
+        "inclination": 85.0,
+        "rail_length": 3.683
+    },
+    "id": {
+        "comment": "Overriden based on the weight of KONG's SRAD nosecone.",
+        "designer": null,
+        "filepath": "data/rocket.ork",
+        "rocket_name": "OMEN"
+    },
+    "motors": {
+        "center_of_dry_mass_position": 0,
+        "coordinate_system_orientation": "nozzle_to_combustion_chamber",
+        "dry_inertia": [
+            0,
+            0,
+            0
+        ],
+        "dry_mass": 0,
+        "grain_density": 1197.8232626056745,
+        "grain_initial_height": 0.702,
+        "grain_initial_inner_radius": 0.0245,
+        "grain_number": 1,
+        "grain_outer_radius": 0.049,
+        "grain_separation": 0,
+        "grains_center_of_mass_position": 0,
+        "nozzle_position": -0.351,
+        "nozzle_radius": 0.036750000000000005,
+        "position": 2.5599352533109103,
+        "throat_radius": 0.0245,
+        "thrust_source": "Irec2024/thrust_source.csv"
+    },
+    "nosecones": {
+        "base_radius": 0.07874,
+        "kind": "ogive",
+        "length": 0.5587999999999996,
+        "name": "Nose cone1.77",
+        "position": 0.0
+    },
+    "parachutes": {
+        "0": {
+            "area": 10.507086286565713,
+            "cd": 0.97,
+            "cds": 10.191873697968742,
+            "deploy_altitude": 304.8,
+            "deploy_delay": 0.0,
+            "deploy_event": "altitude",
+            "name": "Main Parachute & 2 TD-2s"
+        }
+    },
+    "rail_buttons": {
+        "angular_position": 180.0,
+        "distance": 1.822449999999999,
+        "lower_position": 4.298949999999999,
+        "name": "Launch Lug",
+        "upper_position": 2.4764999999999997
+    },
+    "rocket": {
+        "center_of_mass_without_propellant": 1.692,
+        "coordinate_system_orientation": "nose_to_tail",
+        "drag_curve": "Irec2024/drag_curve.csv",
+        "inertia": [
+            0.113,
+            0.113,
+            13.739
+        ],
+        "mass": 23.915,
+        "radius": 0.07874
+    },
+    "stored_results": {
+        "burnout_stability_margin": 1.647,
+        "flight_time": 228.445,
+        "ground_hit_velocity": 6.251,
+        "launch_rod_velocity": 29.236,
+        "max_acceleration": 133.101,
+        "max_altitude": 3621.121,
+        "max_mach": 0.996,
+        "max_stability_margin": 3.18,
+        "max_thrust": 3895.789,
+        "max_velocity": 330.809,
+        "min_stability_margin": 0.088,
+        "time_to_apogee": 26.34
+    },
+    "tails": {
+        "0": {
+            "bottom_radius": 0.060325,
+            "length": 0.15239999999999998,
+            "name": "Boat Tail",
+            "position": 2.7558999999999996,
+            "top_radius": 0.07874
+        }
+    },
+    "trapezoidal_fins": {
+        "0": {
+            "cant_angle": 0.0,
+            "name": "Trapezoidal Fins",
+            "number": 4,
+            "position": 2.7559,
+            "root_chord": 0.30479999999999996,
+            "section": "rounded",
+            "span": 0.15494,
+            "sweep_angle": null,
+            "sweep_length": 0.20976060467980678,
+            "tip_chord": 0.127
+        }
+    }
+}
