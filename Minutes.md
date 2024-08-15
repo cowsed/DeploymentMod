@@ -58,5 +58,9 @@ nat's cat's but
 
 - Richie: C++ implmentation of linear and quardatic curve fitting then the integer overflow attacked
 - Nat: Working on ST link
-- Damian: Dep sheet worked on 
+- Damian: Dep sheet worked on
+  - fixed STM sheet (WAS JUST GRIM SHEET REFRENCE)
+  - Found a buzzer that may kill richie
+  - Bonuse meme:![image](https://github.com/user-attachments/assets/63226aac-e59a-4a94-8f00-00a639139dc9)
+
 
