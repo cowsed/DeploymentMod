@@ -62,5 +62,8 @@ nat's cat's but
   - fixed STM sheet (WAS JUST GRIM SHEET REFRENCE)
   - Found a buzzer that may kill richie
   - Bonuse meme:![image](https://github.com/user-attachments/assets/63226aac-e59a-4a94-8f00-00a639139dc9)
-
+# 8/21/24
+- [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) our way to victory
+  - can use actual drag equation and solve it
+  - which ODE is the best one (ask donovan, he has opinions)
 
