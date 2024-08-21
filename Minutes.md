@@ -66,4 +66,8 @@ nat's cat's but
 - [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) our way to victory
   - can use actual drag equation and solve it
   - which ODE is the best one (ask donovan, he has opinions)
-
+![makesweet-tl7qkj](https://github.com/user-attachments/assets/7351ea7f-c277-44fc-8c44-a6ec56ee6447)
+- Richie: did some open rocketing
+- Nat: Groceries
+- Damian: no update <- lazy bum
+  - Bonuse meme:![image](https://github.com/user-attachments/assets/e9771ed5-c9d3-4d7c-81e1-41fbf272c169)
