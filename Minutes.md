@@ -25,7 +25,7 @@
   - At halfway point, predicted apogee should be within 300ft of actual
 ![image](https://github.com/user-attachments/assets/f9959179-9d7e-42ed-b1b8-b5058d6f1e9f)
 
-# 8/7/24
+## 8/7/24
 ![image](https://github.com/user-attachments/assets/65e717b5-5c67-4f2b-8167-8758a4bc2b6f)
 - Nat: is busy
 - forgor abt mach effects
@@ -39,7 +39,7 @@
   - now you just gotta implement least squares effeciently :)
 ![image](https://github.com/user-attachments/assets/9ded0dc5-27c7-4f06-9115-05080ad8c2c4)
 
-# 8/10/24
+## 8/10/24 half meet (altium gang)
 ![image](https://github.com/user-attachments/assets/061e897d-bb5d-478d-a62e-e204d43ba890)
 - Richie: is busy
 - Altum meeting, working on power sheet
@@ -51,7 +51,7 @@
     - Working on power switching for internal
   - STM Landing pads?
 
-# 8/14/24
+## 8/14/24
 ![image](https://github.com/user-attachments/assets/5425b93b-92a4-4cd0-bd70-015a7fc457a9)
 nat's cat's but
 ![image](https://github.com/user-attachments/assets/b2ebd890-aeb4-4d36-a445-cdecee6312d2)
@@ -62,7 +62,7 @@ nat's cat's but
   - fixed STM sheet (WAS JUST GRIM SHEET REFRENCE)
   - Found a buzzer that may kill richie
   - Bonuse meme:![image](https://github.com/user-attachments/assets/63226aac-e59a-4a94-8f00-00a639139dc9)
-# 8/21/24
+## 8/21/24
 - [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) our way to victory
   - can use actual drag equation and solve it
   - which ODE is the best one (ask donovan, he has opinions)
@@ -71,3 +71,12 @@ nat's cat's but
 - Nat: Groceries
 - Damian: no update <- lazy bum
   - Bonuse meme:![image](https://github.com/user-attachments/assets/e9771ed5-c9d3-4d7c-81e1-41fbf272c169)
+
+
+## 8/25/24 half meet (altium gang)
+- ![image](https://github.com/user-attachments/assets/5efc6741-8bbd-4158-a7e7-254d08695055) 
+  - Fixed power conflics of 9vbatt and 9v
+  - added INA260 for power monitoring 3.3 and 9v needs checked
+  - ST LINK ADDED?!?!?!
+       -not reall, but component is in
+
