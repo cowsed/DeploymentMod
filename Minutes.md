@@ -79,4 +79,10 @@ nat's cat's but
   - added INA260 for power monitoring 3.3 and 9v needs checked
   - ST LINK ADDED?!?!?!
        -not reall, but component is in
-
+    
+## 9/4/24 
+- ![image](https://github.com/user-attachments/assets/d3411cf8-431f-4a51-a8e3-e92f6b2611c7)
+  - Showed Luis, Christian and Donnovan dep mod over the weekend they liked it and gave a green light for presintation
+  - Working on presination for avionics
+  - Nat (CUBEMX hell)
+  - Richie???
