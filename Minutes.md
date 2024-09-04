@@ -86,3 +86,5 @@ nat's cat's but
   - Working on presination for avionics
   - Nat (CUBEMX hell)
   - Richie???
+  - Bonus meme:![image](https://github.com/user-attachments/assets/04f39c90-c96f-42e5-9274-5c597609d925)
+
