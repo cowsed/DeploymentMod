@@ -94,3 +94,9 @@ nat's cat's but
 Experiment Results: Sucess
 - I was tricked into coming to the meeting
 
+- Damian worked on slides, reqs etc
+- Debouncing signals
+- STLink pain (connecting to the STM32 itself), STM32 work, and wanting to murder the STM people
+  - Like, connecting and making sure all the pins across the sheets are connected to the right stm32 pin
+- car ![image](https://github.com/user-attachments/assets/c6b6b40c-ccec-4145-a8ea-38dd262ed631)
+
