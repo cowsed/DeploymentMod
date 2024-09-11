@@ -100,3 +100,8 @@ Experiment Results: Sucess
   - Like, connecting and making sure all the pins across the sheets are connected to the right stm32 pin
 - car ![image](https://github.com/user-attachments/assets/c6b6b40c-ccec-4145-a8ea-38dd262ed631)
 
+
+## 9/11/24
+- damian died
+-  
+
