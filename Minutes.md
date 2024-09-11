@@ -103,5 +103,13 @@ Experiment Results: Sucess
 
 ## 9/11/24
 - damian died
--  
+- We're a real team :tada:
+- Gotta re spec
+  -  steal backplane plane power / cut standalone power
+  -  make sandwich plane requirements -> tell peeps to make sandwich plane 
+  -  steal brain board continuity detection circuits
+  -  new stm32?? [big bois](https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html)
+-  damian wants doom on the module
+
+  
 
