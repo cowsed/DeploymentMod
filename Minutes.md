@@ -103,13 +103,26 @@ Experiment Results: Sucess
 
 ## 9/11/24
 - damian died
+- Its now called Brainsor mod
 - We're a real team :tada:
 - Gotta re spec
   -  steal backplane plane power / cut standalone power
   -  make sandwich plane requirements -> tell peeps to make sandwich plane 
   -  steal brain board continuity detection circuits
   -  new stm32?? [big bois](https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html)
--  damian wants doom on the module
+    - external osciallator scary
+  -  damian wants doom on the module
+-  Figure out a date for the presentation
+-  
+### Little Plane Requirements
+- Power circuitry
+  - Input:
+    - 2S-3S (whatever powermod take)
+  - Output:
+    - the backplane power stuff
+      - logic level
+      - deployment signal level
+- Backplane Compatible Pinout (just supplies power)
+- **NO ETHERNET NEEDED** (no one to talk to :( )
 
-  
-
+![image](https://github.com/user-attachments/assets/5fb2b6d6-4db5-44f5-a375-20a8731ef07c)
