@@ -126,3 +126,31 @@ Experiment Results: Sucess
 - **NO ETHERNET NEEDED** (no one to talk to :( )
 
 ![image](https://github.com/user-attachments/assets/5fb2b6d6-4db5-44f5-a375-20a8731ef07c)
+
+## 9/18/24
+- Magnetometers are wierd
+- do strange things to i2c busses. surely nothing bad will happen
+- The Opps got damian
+- How do we want to do accelerometer
+  - we fw the adxl375 in conjunction with the lsm6dsm
+
+### DEADLINES
+
+| Thing | Date |
+| ----- | ---- |
+| PDR | Sept. 30th | 
+| Design Changes Done/CDR | Oct. 14th | 
+| Schematics Done / Review 1 | Oct. 28th |
+| Schematic Review 2 | Nov. 4th |
+| Schematic Review 3 | Nov. 11th |
+| Layout Review 1 | Nov. 25th | 
+| Layout Review 2 | Dec. 2nd | 
+| Board Ordered | Dec. 16th |
+
+- PDR7th oct
+- Design changes by 21st oct
+- Altium maxxing. complete by 18th of november
+- Review on 18th
+- 2nd Review, 2nd december
+- 3rd Review, 16 december
+- Layout maxxing
