@@ -143,13 +143,15 @@ Experiment Results: Sucess
   - dont need crypto/hash, 747
   - BI, XI, ZI (diff packages)
   - LQFP is cooler 
- 
-  | Chip | FPU | Package |
-  | ---- | --- | ------- |
-  | STM32H757BI | DP | LQFP 28 x 28 x 1.4 mm |
-  | STM32H757XI | DP | LQFP 28 x 28 x 1.4 mm |
-  | STM32H757ZI | DP | WCLSP 156 5x4|
-  
+
+### Things to bring up  
+- what kinda little plane?
+  - do we give you reqs, or do we get reqs passed down from on high
+  - power only littleplane, littleplane that just connects this to power mod
+  - ![image](https://github.com/user-attachments/assets/19a9c33a-22a7-4ca8-9798-2b8c99d6fe15)
+  - w h a t i s h a p p e n n i n g
+- what package do we rock with?
+  - 
 
 
   - 
