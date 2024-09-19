@@ -128,12 +128,31 @@ Experiment Results: Sucess
 ![image](https://github.com/user-attachments/assets/5fb2b6d6-4db5-44f5-a375-20a8731ef07c)
 
 ## 9/18/24
+![image](https://github.com/user-attachments/assets/fadb820e-406b-4a87-8654-8c24849cf780)
+
 - Magnetometers are wierd
 - do strange things to i2c busses. surely nothing bad will happen
 - The Opps got damian
 - How do we want to do accelerometer
   - we fw the adxl375 in conjunction with the lsm6dsm
+- What Processor :crab: no more vocore :crab:
+  - wizzy or integrated ethernet?
+  - both??????? 0ohm resitor bridge so we can have two implementations to double our chances of it working? is that gonna screw up ethernet (our track record with ethernet isn't good)
+  - STM32H745/755 or STM32H747/757 (dual core models)
+  - dont need them graphics, 747/757
+  - dont need crypto/hash, 747
+  - BI, XI, ZI (diff packages)
+  - LQFP is cooler 
+ 
+  | Chip | FPU | Package |
+  | ---- | --- | ------- |
+  | STM32H757BI | DP | LQFP 28 x 28 x 1.4 mm |
+  | STM32H757XI | DP | LQFP 28 x 28 x 1.4 mm |
+  | STM32H757ZI | DP | WCLSP 156 5x4|
+  
 
+
+  - 
 ### DEADLINES
 
 | Thing | Date |
@@ -146,11 +165,3 @@ Experiment Results: Sucess
 | Layout Review 1 | Nov. 25th | 
 | Layout Review 2 | Dec. 2nd | 
 | Board Ordered | Dec. 16th |
-
-- PDR7th oct
-- Design changes by 21st oct
-- Altium maxxing. complete by 18th of november
-- Review on 18th
-- 2nd Review, 2nd december
-- 3rd Review, 16 december
-- Layout maxxing
