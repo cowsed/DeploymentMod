@@ -167,3 +167,14 @@ Experiment Results: Sucess
 | Layout Review 1 | Nov. 25th | 
 | Layout Review 2 | Dec. 2nd | 
 | Board Ordered | Dec. 16th |
+
+
+
+## 9/22/24
+- slept
+- Watched the lord of the ringds instead of meeting
+- got yevfluenced
+
+![image](https://github.com/user-attachments/assets/d90d787f-ddb5-4958-9a1d-b330e7e1aedc)
+![image](https://github.com/user-attachments/assets/096ad3e1-ac63-49cd-8f14-3685c0faa985)
+
