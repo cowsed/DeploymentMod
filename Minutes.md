@@ -178,3 +178,6 @@ Experiment Results: Sucess
 ![image](https://github.com/user-attachments/assets/d90d787f-ddb5-4958-9a1d-b330e7e1aedc)
 ![image](https://github.com/user-attachments/assets/096ad3e1-ac63-49cd-8f14-3685c0faa985)
 
+9/29/24
+- Presentation grind
+![image](https://github.com/user-attachments/assets/8337901f-76fb-4e23-8eb6-e190aad23882)
