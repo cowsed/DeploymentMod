@@ -178,6 +178,24 @@ Experiment Results: Sucess
 ![image](https://github.com/user-attachments/assets/d90d787f-ddb5-4958-9a1d-b330e7e1aedc)
 ![image](https://github.com/user-attachments/assets/096ad3e1-ac63-49cd-8f14-3685c0faa985)
 
-9/29/24
+## 9/29/24
 - Presentation grind
 ![image](https://github.com/user-attachments/assets/8337901f-76fb-4e23-8eb6-e190aad23882)
+
+
+## 10/9/24
+- [ ] Ricihe - make a todo list
+- [ ] nat -   altium
+- [ ] richie stmcube
+## Real Todo list for real
+- [x] Decide on STM
+- [x] Decide on QSPI
+- [ ] Research buzzer more harder
+- [ ] gyro, is it good?
+- [ ] update lucidchart
+- [ ] what mac-phy thingy do we want
+
+![image](https://github.com/user-attachments/assets/ea6899d7-2b47-4e78-a77c-54a534051a21)
+
+![image](https://github.com/user-attachments/assets/b1eb416d-d024-4e1d-9345-5d21bccd2265)
+
