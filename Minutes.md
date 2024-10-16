@@ -199,3 +199,23 @@ Experiment Results: Sucess
 
 ![image](https://github.com/user-attachments/assets/b1eb416d-d024-4e1d-9345-5d21bccd2265)
 
+## 10/16/24
+### Updates
+Nat: Eeped
+Damian: Eeped
+Richie: Got stabbed, went to art musuem and rock and roll hall of fame
+- Got Event Detection working on open rocket flights
+### Mintues:
+- No more MODS  
+  - MINIE: BTB or STDC14?
+  - ![image](https://github.com/user-attachments/assets/e646bccb-41af-4a67-a1ac-573e44afe0fc)
+  - if we have stdc14, can buy converter and be compatible with j link. [Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/stdc14-adapter/)
+  - BTB is rad tho
+- Thinking about mac-phy  
+  - "Uh" - Nat
+- 
+
+![image](https://github.com/user-attachments/assets/a6027e3b-aab9-4e45-85bb-eb60c2c93b0e)
+    
+![image](https://github.com/user-attachments/assets/42656df6-1750-454e-b5b9-310ec07daa52)
+Damian is off the team for this one 
