@@ -213,9 +213,8 @@ Richie: Got stabbed, went to art musuem and rock and roll hall of fame
   - BTB is rad tho
 - Thinking about mac-phy  
   - "Uh" - Nat
-- 
+  - Lmao just copy the nucleo whatre they gonna do stop us
+
 
 ![image](https://github.com/user-attachments/assets/a6027e3b-aab9-4e45-85bb-eb60c2c93b0e)
-    
-![image](https://github.com/user-attachments/assets/42656df6-1750-454e-b5b9-310ec07daa52)
-Damian is off the team for this one 
+
