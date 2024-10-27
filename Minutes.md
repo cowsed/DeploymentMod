@@ -218,3 +218,21 @@ Richie: Got stabbed, went to art musuem and rock and roll hall of fame
 
 ![image](https://github.com/user-attachments/assets/a6027e3b-aab9-4e45-85bb-eb60c2c93b0e)
 
+
+## 10/27/24
+![image](https://github.com/user-attachments/assets/b441e0ee-bc37-4fe6-8abf-b08316ee9215)
+
+### Updates:
+- Nat  
+  - STM in
+  - PHY in
+  - Buzzer fixed
+- Richie
+  - did robotics
+  - a lil bit of flight controller work
+- Damian
+  - Did nothing (hes not here to defend himself)
+
+Nats internet died
+Damian died
+
