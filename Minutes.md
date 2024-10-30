@@ -239,6 +239,9 @@ Damian died
 ## 10/30/24
 Oh shit we have no memes no wonder we're struggling.
 
+![image](https://github.com/user-attachments/assets/e463deb1-cd10-4cbc-9254-f9e56a168f48)
+
+
 
 Thigns to do:
 
