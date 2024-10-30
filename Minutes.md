@@ -243,8 +243,9 @@ Oh shit we have no memes no wonder we're struggling.
 
 ![image](https://github.com/user-attachments/assets/f97d144f-3004-4100-bc40-bc9a3f8cc4ee)
 
-
 ![image](https://github.com/user-attachments/assets/cb1306d3-d183-4b6f-b9aa-cc00d4136a8a)
+
+![image](https://github.com/user-attachments/assets/dfb17639-4b2b-4fda-aded-a23f4c09fa6d)
 
 Thigns to do:
 
