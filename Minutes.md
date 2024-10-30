@@ -236,3 +236,12 @@ Richie: Got stabbed, went to art musuem and rock and roll hall of fame
 Nats internet died
 Damian died
 
+## 10/30/24
+Oh shit we have no memes no wonder we're struggling.
+
+
+Thigns to do:
+
+- Richie
+  - Altimeter ground level calibration (find pressure at ground level at start, make AGL from that)
+  - Make IMU 9.81 m/s calibrated
