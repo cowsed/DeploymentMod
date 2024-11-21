@@ -252,3 +252,10 @@ Thigns to do:
 - Richie
   - Altimeter ground level calibration (find pressure at ground level at start, make AGL from that)
   - Make IMU 9.81 m/s calibrated
+ 
+
+## 11/20/24
+check the wiki
+![image](https://github.com/user-attachments/assets/46f7b2f1-eae3-427e-968a-44628647f516)
+
+
