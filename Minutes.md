@@ -169,7 +169,6 @@ Experiment Results: Sucess
 | Board Ordered | Dec. 16th |
 
 
-
 ## 9/22/24
 - slept
 - Watched the lord of the ringds instead of meeting
@@ -293,5 +292,18 @@ Been a minute
 - Jellybean Circuit? for making sure stuff doesnt explode on reset
 	- WIP
  
+
+### Newer pessimistic deadlines
+
+| Thing | Date |
+| ----- | ---- |
+| PDR | Sept. 30th ✔️| 
+| Design Changes Done/CDR | Oct. 14th ✔️| 
+| Schematics Done / Review 1 | Oct. 28th ✔️|
+| Schematic Review 2 | Jan 25th (hopeful), Feb 1st (definite) |
+| Schematic Review 3 | Feb 8th |
+| Layout Review 1 | Feb 15th | 
+| Layout Review 2 | Mar 1st | 
+| Board Ordered | Mar 15th |
 
 
