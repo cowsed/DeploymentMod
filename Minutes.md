@@ -274,6 +274,8 @@ Been a minute
 	- lsm6dso
 	- ✅**completed**✅
 - **Buzzer**
+	- implemented in altium ✔️
+	 - nat gonna LT spice it up
 	- switch to transistor with lower or no pulldown
 	- https://rit-launch-initiative.slack.com/archives/C02RSVD8US2/p1736117657450099?thread_ts=1736117574.819669&cid=C02RSVD8US2
 
