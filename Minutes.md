@@ -290,5 +290,8 @@ Been a minute
 	- ✅**completed**✅
 - **Altium Comments** look at em
 - **Figure out that sensor ICs are still available on JLCPCB/Digikey**
+- Jellybean Circuit? for making sure stuff doesnt explode on reset
+	- WIP
+ 
 
 
