@@ -258,4 +258,37 @@ Thigns to do:
 check the wiki
 ![image](https://github.com/user-attachments/assets/46f7b2f1-eae3-427e-968a-44628647f516)
 
+## 1/8/25/24
+
+Been a minute
+
+### Things to do
+
+- **WHat The STM**
+	- which pins are gpio and which can only have certain functions to make sure no conflicts
+	- STM cube it out
+- **ESD**
+	- redo ESD 
+	- have unidirectional, want bisexual ESD protection
+- **Accelerometer**
+	- no more hi and low g, just medium G
+	- lsm6dso
+	- ✅**completed**✅
+- **Buzzer**
+	- switch to transistor with lower or no pulldown
+	- https://rit-launch-initiative.slack.com/archives/C02RSVD8US2/p1736117657450099?thread_ts=1736117574.819669&cid=C02RSVD8US2
+
+> **jimfluence**
+> The digital transistor on the buzzer is going to current limit it to 7mA or so, versus the 22.5mA it needs to run. If I am reading the datasheet right, you have a gain of 35, and when you pair that with the 10k base current-limit resistor and the 10k base pulldown resistor, you get something like this;  
+> https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgpABZsKBTAWjDACgAXEFPPb-ENmyF+fKhCY1o2BDXSRiYQpEJhsKKNEI0EpDMXzZi2PITwQZIACYMAZgEMArgBsObAE7deon2jHJ4Dy8+P2DuDA1xeEg2AHcwzA0hEUSoOMFhcKTMlBQaNIBzDJSI4rCqGIAZXwEwHh9xEAdnAGcGQWk0gA9BBAgUOopVbjAkfLyQAAsAMQBRAB0WmUWAdQB7dxaOJgBheza2ACUysBp85PBBitoqJGuYBHSL0-PMsGJItjWQYhBtKEEZhw1BgkBQd24P0EbCAA
+> https://rit-launch-initiative.slack.com/archives/C02RSVD8US2/p1736117788785479?thread_ts=1736117574.819669&cid=C02RSVD8US2
+> If you swap it for a digital transistor that has no pulldown (like the LMUN2215LT1G) or one that has a much weaker pulldown than current-limit (like the LMUN2233LT1G) that would probably fix your issue, but run the numbers on the gain to be sure
+- **STM Power**
+	- Vref, Vcap1, Vcap2 (idk what all these Vs mean(can you tell the EE is not taking these notes)) 
+	- Nat is reading the datasheet as we speak
+	- Nat read the datasheet and we're chilling
+	- ✅**completed**✅
+- **Altium Comments** look at em
+- **Figure out that sensor ICs are still available on JLCPCB/Digikey**
+
 
