@@ -269,6 +269,7 @@ Been a minute
 - **ESD**
 	- redo ESD 
 	- have unidirectional, want bisexual ESD protection
+	- ✅ ESD IS FAKE ✅ 
 - **Accelerometer**
 	- no more hi and low g, just medium G
 	- lsm6dso
